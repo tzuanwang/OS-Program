@@ -1,0 +1,1 @@
+docker run -i --name 2250 --privileged --rm -t -v "/Users/wayne/Desktop/Master/NYU MSCS/2024 Spring/Operating Systems/Labs/lab2:/2250" -w /2250 ytang/os bash
